@@ -97,34 +97,6 @@ The analysis is performed on an IPL ball-by-ball dataset containing information 
 
 ---
 
-## Project Structure
-
-```
-IPL-Data-Analysis
-│
-├── data
-│   ├── raw_dataset.csv
-│   └── cleaned_dataset.csv
-│
-├── notebook
-│   └── IPL_Data_Analysis.ipynb
-│
-├── reports
-│   └── Project1 EDA.html
-│
-├── images
-│   ├── top_batsmen.png
-│   ├── top_bowlers.png
-│   ├── runs_per_over.png
-│   └── heatmap.png
-│
-├── README.md
-├── requirements.txt
-└── LICENSE
-```
-
----
-
 ## How to Run
 
 1. Clone this repository
