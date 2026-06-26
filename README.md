@@ -65,8 +65,8 @@ The analysis is performed on an IPL ball-by-ball dataset containing information 
 
 ### 🏏 Top 10 Batsmen by Runs
 
-<img src="images/top_batsmen.png" width="800">
-"C:\Users\hp\Desktop\Projects\IPL\Images\Heatmap.png"
+<img src="images/Top 10 batsman.png" width="800">
+
 
 ---
 
