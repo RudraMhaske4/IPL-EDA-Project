@@ -61,33 +61,6 @@ The analysis is performed on an IPL ball-by-ball dataset containing information 
 
 ---
 
-## Visualizations
-
-### 🏏 Top 10 Batsmen by Runs
-
-<img src=""C:\Users\hp\Desktop\Projects\IPL\images\Top 10 batsman.png"" width="800">
-
-
----
-
-### 🎯 Top 10 Bowlers by Wickets
-
-<img src="images/top_bowlers.png" width="800">
-
----
-
-### 📈 Runs Scored per Over
-
-<img src="images/runs_per_over.png" width="800">
-
----
-
-### 🔥 Correlation Heatmap
-
-<img src="images/heatmap.png" width="800">
-
----
-
 ## Key Insights
 
 - A small group of players consistently contribute a significant portion of total runs.
